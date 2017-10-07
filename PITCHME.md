@@ -28,7 +28,12 @@ Keybaseを使って暗号化 git repositoryを作ろう
 
 ### https://keybase.io/download
 
-私は[gist](https://gist.github.com/wshino/2044b1ac283be26d908f19c8c9447ec5)で登録しました
+- アカウント作成したら認証を行う必要があります。
+  - Github
+  - Twitter
+  - Facebook
+  - Reddit...
+- 私は[gist](https://gist.github.com/wshino/2044b1ac283be26d908f19c8c9447ec5)で登録しました
 
 ---
 

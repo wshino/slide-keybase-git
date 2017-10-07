@@ -123,6 +123,6 @@ git clone keybase://private/wshino/sbt-rpm
 
 ## その他
 
-- 容量のリミットは100GB
-- チームごとにも100GB
+- 容量のリミットは1アカウントに100GB
+- 1チームごとにも100GB
 - commitに署名はしていない

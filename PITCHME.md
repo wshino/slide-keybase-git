@@ -39,7 +39,7 @@ Keybaseを使って暗号化 git repositoryを作ろう
 
 ## encrypted git の作り方
 
-### personal repositoryを選ぶ
+### new personal repositoryを選ぶ
 
 ![personal repositoryを選ぶ](personal-repo.png)<!-- .element height="60%" width="60%" -->
 

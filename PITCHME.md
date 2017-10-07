@@ -1,10 +1,3 @@
----
-title: keybase encrypted git
-theme: 'black'
-highlight: vs2015
-revealOptions:
-    transition: 'fade'
----
 
 Keybaseを使って暗号化 git repositoryを作ろう
 
